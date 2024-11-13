@@ -17,5 +17,5 @@ Convention choisies :
 Remarques : 
 -Je n'ai pas vérifier la ROM car il n'y as pas de test fournis
 
-Difficultés rencontrés lors du projet:
--J'ai eu des difficultés pour coder la RAM.
+Problème rencontrés lors du projet:
+-La RAM ne fonctionne pas (elle conserve la valeur est l'actualisation ne s'effectue pas )
