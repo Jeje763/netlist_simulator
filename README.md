@@ -12,4 +12,8 @@ Convention choisies :
 (A chaque fin de tour de boucle, on recopie les valeurs des variables qui recoivent une RAM dans le nouvelles environnements.)
 -Tous les registres sont initialisés à false/tableau de false.
 
-Remarques
+Remarques : 
+-Je n'ai pas vérifier la ROM car il n'y as pas de test fournis
+
+Difficultés rencontrés lors du projet:
+-J'ai eu des difficultés pour coder la RAM.
