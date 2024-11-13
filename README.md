@@ -1,4 +1,6 @@
 # DOURVILLE Jérémy netlist_simulator
+Exécution : 
+L'éxécution se fait de la même manière que ce qui est fait dans le TP.
 
 Choix de programmation : 
 A tout instant ona deux environnement. 
